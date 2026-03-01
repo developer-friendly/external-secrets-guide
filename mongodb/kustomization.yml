@@ -27,6 +27,6 @@ replacements:
 
 images:
   - name: mongo
-    newTag: "7"
+    newTag: "8"
 
 namespace: mongodb
