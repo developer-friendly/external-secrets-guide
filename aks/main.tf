@@ -14,7 +14,7 @@ resource "azurerm_resource_group" "this" {
 
 module "aks" {
   source  = "Azure/aks/azurerm"
-  version = "8.0.0"
+  version = "11.7.0"
 
   prefix = var.prefix
 
